@@ -1,0 +1,1 @@
+Just a dump of all of my competitive programming problems, meant to keep me motivated
