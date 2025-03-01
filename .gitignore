@@ -1,6 +1,8 @@
 out/
 *.exe
-.vscode
 .cph/
 *.in
 *.out
+*
+!*.*
+.vscode/
