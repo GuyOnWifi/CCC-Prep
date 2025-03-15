@@ -3,6 +3,4 @@ out/
 .cph/
 *.in
 *.out
-*
-!*.*
 .vscode/
