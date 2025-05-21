@@ -1,5 +1,5 @@
 build:
-	g++ $(name).cpp -o ../out/$(name)
+	g++ $(name).cpp -o ../out/$(name) -g
 	../out/$(name)
 
 run:
